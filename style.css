@@ -1,0 +1,9 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+canvas{
+    border: 2px solid;
+    box-shadow: 5px 5px 5px black;
+    margin-top: 100px;
+}
